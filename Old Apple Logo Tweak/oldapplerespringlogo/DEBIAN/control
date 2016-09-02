@@ -1,0 +1,10 @@
+Package: org.modmyi.oldapplelogo
+Name: Old Apple Logo
+Version: 1.0
+Section: Themes (SpringBoard)
+Depends: winterboard
+Architecture: iphoneos-arm
+Description: Old colorfull apple respring logo. Tested on iPhone 6 ios 9.3.3.
+Author: Burc Buluklu <burcbuluklu@gmail.com>
+Sponsor: ModMyi.com <http://modmyi.com>
+Maintainer: ModMyi <http://modmyi.com>
